@@ -21,6 +21,7 @@
 		40996956165D531B00B0123E /* button-dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 40996953165D531B00B0123E /* button-dark.png */; };
 		40996957165D531B00B0123E /* button-delete.png in Resources */ = {isa = PBXBuildFile; fileRef = 40996954165D531B00B0123E /* button-delete.png */; };
 		40996958165D531B00B0123E /* button-light.png in Resources */ = {isa = PBXBuildFile; fileRef = 40996955165D531B00B0123E /* button-light.png */; };
+		40A5B58C165ECC5900A3553E /* Calculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 40A5B58B165ECC5900A3553E /* Calculator.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,8 @@
 		40996953165D531B00B0123E /* button-dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button-dark.png"; sourceTree = "<group>"; };
 		40996954165D531B00B0123E /* button-delete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button-delete.png"; sourceTree = "<group>"; };
 		40996955165D531B00B0123E /* button-light.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button-light.png"; sourceTree = "<group>"; };
+		40A5B58A165ECC5900A3553E /* Calculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Calculator.h; sourceTree = "<group>"; };
+		40A5B58B165ECC5900A3553E /* Calculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Calculator.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 		40996936165D52DE00B0123E /* AutoLayoutCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				40A5B58A165ECC5900A3553E /* Calculator.h */,
+				40A5B58B165ECC5900A3553E /* Calculator.m */,
 				4099693F165D52DE00B0123E /* CalculatorAppDelegate.h */,
 				40996940165D52DE00B0123E /* CalculatorAppDelegate.m */,
 				40996948165D52DE00B0123E /* MainStoryboard.storyboard */,
@@ -189,6 +194,7 @@
 				4099693D165D52DE00B0123E /* main.m in Sources */,
 				40996941165D52DE00B0123E /* CalculatorAppDelegate.m in Sources */,
 				4099694D165D52DE00B0123E /* CalculatorViewController.m in Sources */,
+				40A5B58C165ECC5900A3553E /* Calculator.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -305,6 +311,7 @@
 				40996952165D52DE00B0123E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
