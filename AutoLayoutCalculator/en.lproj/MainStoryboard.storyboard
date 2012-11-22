@@ -437,7 +437,7 @@
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ecs-w8-Zpa">
                                         <constraints>
                                             <constraint firstAttribute="height" relation="lessThanOrEqual" constant="88" type="user" id="SS9-Wv-Ucx"/>
-                                            <constraint firstAttribute="width" relation="lessThanOrEqual" constant="200" type="user" id="hCd-Uh-ARN"/>
+                                            <constraint firstAttribute="width" relation="lessThanOrEqual" constant="300" type="user" id="hCd-Uh-ARN"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" name="Avenir-Black" family="Avenir" pointSize="18"/>
                                         <state key="normal" title="." backgroundImage="button-dark.png">
@@ -469,7 +469,7 @@
                                         </state>
                                     </button>
                                 </subviews>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                 <constraints>
                                     <constraint firstItem="kTV-Q5-OV8" firstAttribute="top" secondItem="6UI-Es-AtW" secondAttribute="top" type="user" id="6Cm-6j-3fx"/>
                                     <constraint firstItem="Ecs-w8-Zpa" firstAttribute="top" secondItem="6UI-Es-AtW" secondAttribute="top" type="user" id="9IU-Xg-0Cf"/>
@@ -479,9 +479,9 @@
                                     <constraint firstItem="u9d-lb-FH8" firstAttribute="baseline" secondItem="kTV-Q5-OV8" secondAttribute="baseline" type="user" id="GJi-Gd-dYI"/>
                                     <constraint firstItem="kTV-Q5-OV8" firstAttribute="baseline" secondItem="Ecs-w8-Zpa" secondAttribute="baseline" type="user" id="IeM-fh-Uwe"/>
                                     <constraint firstItem="Ecs-w8-Zpa" firstAttribute="leading" secondItem="6UI-Es-AtW" secondAttribute="leading" type="user" id="KgF-QB-mVe"/>
-                                    <constraint firstItem="u9d-lb-FH8" firstAttribute="width" secondItem="Ecs-w8-Zpa" secondAttribute="width" type="user" id="RcV-Eg-GPB"/>
+                                    <constraint firstItem="kTV-Q5-OV8" firstAttribute="centerX" secondItem="6UI-Es-AtW" secondAttribute="centerX" type="default" id="O89-gq-Z0g"/>
                                     <constraint firstItem="u9d-lb-FH8" firstAttribute="bottom" secondItem="6UI-Es-AtW" secondAttribute="bottom" type="user" id="S4D-MT-2k1"/>
-                                    <constraint firstItem="kTV-Q5-OV8" firstAttribute="centerX" secondItem="6UI-Es-AtW" secondAttribute="centerX" type="user" id="db3-tz-cQK"/>
+                                    <constraint firstItem="u9d-lb-FH8" firstAttribute="width" secondItem="Ecs-w8-Zpa" secondAttribute="width" type="user" id="TgP-hp-9rL"/>
                                     <constraint firstAttribute="trailing" secondItem="u9d-lb-FH8" secondAttribute="trailing" type="user" id="fTI-Sr-s2J"/>
                                     <constraint firstItem="kTV-Q5-OV8" firstAttribute="leading" secondItem="Ecs-w8-Zpa" secondAttribute="trailing" type="user" id="fW9-bo-gkM"/>
                                     <constraint firstItem="Ecs-w8-Zpa" firstAttribute="width" secondItem="kTV-Q5-OV8" secondAttribute="width" type="user" id="igT-TE-V92"/>
@@ -494,7 +494,7 @@
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LRT-E1-faI">
                                         <constraints>
                                             <constraint firstAttribute="height" relation="lessThanOrEqual" constant="88" type="user" id="2av-gm-dQs"/>
-                                            <constraint firstAttribute="width" relation="lessThanOrEqual" constant="200" type="user" id="ar7-0e-B5K"/>
+                                            <constraint firstAttribute="width" relation="lessThanOrEqual" constant="300" type="user" id="ar7-0e-B5K"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" name="Avenir-Black" family="Avenir" pointSize="18"/>
                                         <state key="normal" title="1" backgroundImage="button-dark.png">
@@ -526,7 +526,7 @@
                                         </state>
                                     </button>
                                 </subviews>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                 <constraints>
                                     <constraint firstAttribute="trailing" secondItem="056-JN-twF" secondAttribute="trailing" type="user" id="0l1-06-m3H"/>
                                     <constraint firstItem="URh-n5-F5L" firstAttribute="leading" secondItem="LRT-E1-faI" secondAttribute="trailing" type="user" id="1aj-qP-BLg"/>
@@ -549,7 +549,7 @@
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lgc-Sy-WdB">
                                         <constraints>
-                                            <constraint firstAttribute="width" relation="lessThanOrEqual" constant="200" type="user" id="8lO-zL-FNq"/>
+                                            <constraint firstAttribute="width" relation="lessThanOrEqual" constant="300" type="user" id="8lO-zL-FNq"/>
                                             <constraint firstAttribute="height" relation="lessThanOrEqual" constant="88" type="user" id="MO0-qO-ur2"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" name="Avenir-Black" family="Avenir" pointSize="18"/>
@@ -582,7 +582,7 @@
                                         </state>
                                     </button>
                                 </subviews>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                 <constraints>
                                     <constraint firstItem="bfS-Hi-b9R" firstAttribute="top" secondItem="SlX-c0-MH9" secondAttribute="top" type="user" id="0RT-3n-WQe"/>
                                     <constraint firstItem="lgc-Sy-WdB" firstAttribute="width" secondItem="0r2-fG-lpH" secondAttribute="width" type="user" id="4w4-p1-8jS"/>
@@ -606,7 +606,7 @@
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qTw-8E-5Fj">
                                         <constraints>
                                             <constraint firstAttribute="height" relation="lessThanOrEqual" constant="88" type="user" id="EdM-Fo-vrA"/>
-                                            <constraint firstAttribute="width" relation="lessThanOrEqual" constant="200" type="user" id="sqr-xt-FnT"/>
+                                            <constraint firstAttribute="width" relation="lessThanOrEqual" constant="300" type="user" id="sqr-xt-FnT"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" name="Avenir-Black" family="Avenir" pointSize="18"/>
                                         <state key="normal" title="7" backgroundImage="button-dark.png">
@@ -638,7 +638,7 @@
                                         </state>
                                     </button>
                                 </subviews>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                 <constraints>
                                     <constraint firstItem="Seb-Mf-bCD" firstAttribute="bottom" secondItem="5a3-ok-DSu" secondAttribute="bottom" type="user" id="0TW-lY-Mdc"/>
                                     <constraint firstAttribute="trailing" secondItem="Seb-Mf-bCD" secondAttribute="trailing" type="user" id="8Jp-qS-nQl"/>
@@ -658,7 +658,109 @@
                                 </constraints>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="E0K-95-uO4">
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <subviews>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3gg-Lx-9N9">
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CeV-4k-ocX">
+                                                <fontDescription key="fontDescription" name="Avenir-Black" family="Avenir" pointSize="18"/>
+                                                <state key="normal" title="-" backgroundImage="button-light.png">
+                                                    <color key="titleColor" red="1" green="0.9947729152" blue="0.97570430200000002" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                                </state>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="b9y-9i-Sw9">
+                                                <constraints>
+                                                    <constraint firstAttribute="width" relation="lessThanOrEqual" constant="100" type="user" id="22B-5I-t9t"/>
+                                                </constraints>
+                                                <fontDescription key="fontDescription" name="Avenir-Black" family="Avenir" pointSize="18"/>
+                                                <state key="normal" title="+" backgroundImage="button-light.png">
+                                                    <color key="titleColor" red="1" green="0.9947729152" blue="0.97570430200000002" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                                </state>
+                                            </button>
+                                        </subviews>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                        <constraints>
+                                            <constraint firstItem="CeV-4k-ocX" firstAttribute="top" secondItem="3gg-Lx-9N9" secondAttribute="top" type="user" id="Dpr-ap-FKm"/>
+                                            <constraint firstAttribute="width" relation="lessThanOrEqual" constant="300" type="user" id="HAZ-AQ-1P4"/>
+                                            <constraint firstItem="b9y-9i-Sw9" firstAttribute="top" secondItem="3gg-Lx-9N9" secondAttribute="top" type="user" id="Id1-CH-dhm"/>
+                                            <constraint firstAttribute="height" relation="lessThanOrEqual" constant="100" type="user" id="JEQ-Jw-AS3"/>
+                                            <constraint firstItem="b9y-9i-Sw9" firstAttribute="leading" secondItem="3gg-Lx-9N9" secondAttribute="leading" type="user" id="XtH-Kk-lyT"/>
+                                            <constraint firstItem="CeV-4k-ocX" firstAttribute="trailing" secondItem="3gg-Lx-9N9" secondAttribute="trailing" type="user" id="Zlg-pU-olh"/>
+                                            <constraint firstItem="CeV-4k-ocX" firstAttribute="bottom" secondItem="3gg-Lx-9N9" secondAttribute="bottom" type="user" id="bea-LN-ckU"/>
+                                            <constraint firstItem="CeV-4k-ocX" firstAttribute="baseline" secondItem="b9y-9i-Sw9" secondAttribute="baseline" type="user" id="lev-G7-kXj"/>
+                                            <constraint firstItem="b9y-9i-Sw9" firstAttribute="bottom" secondItem="3gg-Lx-9N9" secondAttribute="bottom" type="user" id="nRN-hY-Z5a"/>
+                                            <constraint firstItem="b9y-9i-Sw9" firstAttribute="width" secondItem="CeV-4k-ocX" secondAttribute="width" type="user" id="p0p-OG-nLI"/>
+                                            <constraint firstItem="CeV-4k-ocX" firstAttribute="leading" secondItem="b9y-9i-Sw9" secondAttribute="trailing" constant="-2" type="user" id="uab-UU-50f"/>
+                                        </constraints>
+                                    </view>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PH7-kd-csQ">
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1gP-l4-CnC">
+                                                <fontDescription key="fontDescription" name="Avenir-Black" family="Avenir" pointSize="18"/>
+                                                <state key="normal" title="÷" backgroundImage="button-light.png">
+                                                    <color key="titleColor" red="1" green="0.9947729152" blue="0.97570430200000002" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                                </state>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YPz-LL-Uwb">
+                                                <constraints>
+                                                    <constraint firstAttribute="width" relation="lessThanOrEqual" constant="100" type="user" id="06y-bN-5Zb"/>
+                                                </constraints>
+                                                <fontDescription key="fontDescription" name="Avenir-Black" family="Avenir" pointSize="18"/>
+                                                <state key="normal" title="×" backgroundImage="button-light.png">
+                                                    <color key="titleColor" red="1" green="0.9947729152" blue="0.97570430200000002" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                                </state>
+                                            </button>
+                                        </subviews>
+                                        <color key="backgroundColor" red="0.89329993206521741" green="0.89329993206521741" blue="0.89329993206521741" alpha="1" colorSpace="calibratedRGB"/>
+                                        <constraints>
+                                            <constraint firstItem="YPz-LL-Uwb" firstAttribute="bottom" secondItem="PH7-kd-csQ" secondAttribute="bottom" type="user" id="3uz-xO-8FN"/>
+                                            <constraint firstItem="YPz-LL-Uwb" firstAttribute="leading" secondItem="PH7-kd-csQ" secondAttribute="leading" type="user" id="8d3-Pd-W7Z"/>
+                                            <constraint firstItem="YPz-LL-Uwb" firstAttribute="width" secondItem="1gP-l4-CnC" secondAttribute="width" type="user" id="I3g-KE-otz"/>
+                                            <constraint firstItem="1gP-l4-CnC" firstAttribute="trailing" secondItem="PH7-kd-csQ" secondAttribute="trailing" type="user" id="WtU-6I-jdg"/>
+                                            <constraint firstItem="1gP-l4-CnC" firstAttribute="leading" secondItem="YPz-LL-Uwb" secondAttribute="trailing" constant="-2" type="user" id="jpN-Gy-IAa"/>
+                                            <constraint firstItem="YPz-LL-Uwb" firstAttribute="top" secondItem="PH7-kd-csQ" secondAttribute="top" type="user" id="llN-4n-9Rd"/>
+                                            <constraint firstItem="1gP-l4-CnC" firstAttribute="top" secondItem="PH7-kd-csQ" secondAttribute="top" type="user" id="u3e-7i-W3Z"/>
+                                            <constraint firstItem="1gP-l4-CnC" firstAttribute="baseline" secondItem="YPz-LL-Uwb" secondAttribute="baseline" type="user" id="wfu-Mf-tfC"/>
+                                            <constraint firstItem="1gP-l4-CnC" firstAttribute="bottom" secondItem="PH7-kd-csQ" secondAttribute="bottom" type="user" id="ydK-jY-7vt"/>
+                                        </constraints>
+                                    </view>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Flu-Xo-T1M">
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Mov-ZZ-KS1">
+                                                <fontDescription key="fontDescription" name="Avenir-Black" family="Avenir" pointSize="18"/>
+                                                <state key="normal" backgroundImage="button-delete.png">
+                                                    <color key="titleColor" red="1" green="0.9947729152" blue="0.97570430200000002" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                                </state>
+                                            </button>
+                                        </subviews>
+                                        <color key="backgroundColor" red="0.89329993210000003" green="0.89329993210000003" blue="0.89329993210000003" alpha="1" colorSpace="calibratedRGB"/>
+                                        <constraints>
+                                            <constraint firstItem="Mov-ZZ-KS1" firstAttribute="top" secondItem="Flu-Xo-T1M" secondAttribute="top" type="user" id="efx-48-KFW"/>
+                                            <constraint firstItem="Mov-ZZ-KS1" firstAttribute="bottom" secondItem="Flu-Xo-T1M" secondAttribute="bottom" type="user" id="iak-ac-RYU"/>
+                                            <constraint firstItem="Mov-ZZ-KS1" firstAttribute="leading" secondItem="Flu-Xo-T1M" secondAttribute="leading" type="user" id="oOd-54-LD7"/>
+                                            <constraint firstItem="Mov-ZZ-KS1" firstAttribute="trailing" secondItem="Flu-Xo-T1M" secondAttribute="trailing" type="user" id="yFv-Jy-tVR"/>
+                                        </constraints>
+                                    </view>
+                                </subviews>
+                                <color key="backgroundColor" red="0.89329993210000003" green="0.89329993210000003" blue="0.89329993210000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstItem="PH7-kd-csQ" firstAttribute="top" secondItem="E0K-95-uO4" secondAttribute="top" type="user" id="EMg-cj-DwV"/>
+                                    <constraint firstItem="PH7-kd-csQ" firstAttribute="width" secondItem="3gg-Lx-9N9" secondAttribute="width" type="user" id="HrJ-jw-AMq"/>
+                                    <constraint firstItem="Flu-Xo-T1M" firstAttribute="top" secondItem="E0K-95-uO4" secondAttribute="top" type="user" id="Quk-4q-pq8"/>
+                                    <constraint firstItem="Flu-Xo-T1M" firstAttribute="bottom" secondItem="E0K-95-uO4" secondAttribute="bottom" type="user" id="VfV-mA-q3g"/>
+                                    <constraint firstItem="3gg-Lx-9N9" firstAttribute="top" secondItem="E0K-95-uO4" secondAttribute="top" type="user" id="W8Z-tF-WVA"/>
+                                    <constraint firstItem="PH7-kd-csQ" firstAttribute="bottom" secondItem="E0K-95-uO4" secondAttribute="bottom" type="user" id="ZZZ-7V-kDX"/>
+                                    <constraint firstItem="Flu-Xo-T1M" firstAttribute="width" secondItem="3gg-Lx-9N9" secondAttribute="width" type="user" id="g7B-0s-gvf"/>
+                                    <constraint firstAttribute="bottom" secondItem="3gg-Lx-9N9" secondAttribute="bottom" type="user" id="kyH-ZI-cXu"/>
+                                    <constraint firstItem="Flu-Xo-T1M" firstAttribute="trailing" secondItem="E0K-95-uO4" secondAttribute="trailing" type="user" id="oTS-B4-pBL"/>
+                                    <constraint firstItem="PH7-kd-csQ" firstAttribute="leading" secondItem="3gg-Lx-9N9" secondAttribute="trailing" constant="1" type="user" id="rVA-u4-FUL"/>
+                                    <constraint firstItem="PH7-kd-csQ" firstAttribute="centerX" secondItem="E0K-95-uO4" secondAttribute="centerX" type="user" id="v6J-gR-cUb"/>
+                                    <constraint firstItem="3gg-Lx-9N9" firstAttribute="leading" secondItem="E0K-95-uO4" secondAttribute="leading" type="user" id="yk5-vq-rMh"/>
+                                </constraints>
                             </view>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
@@ -672,11 +774,11 @@
                             <constraint firstItem="6UI-Es-AtW" firstAttribute="height" secondItem="SlX-c0-MH9" secondAttribute="height" type="user" id="Jlm-pp-rSa"/>
                             <constraint firstItem="6UI-Es-AtW" firstAttribute="top" secondItem="Fai-AL-97W" secondAttribute="bottom" type="user" id="Ltw-Xk-xRW"/>
                             <constraint firstItem="SlX-c0-MH9" firstAttribute="top" secondItem="5a3-ok-DSu" secondAttribute="bottom" constant="-1" type="user" id="NEn-tB-Cr3"/>
-                            <constraint firstItem="E0K-95-uO4" firstAttribute="top" secondItem="0Gt-U4-SLX" secondAttribute="bottom" constant="8" symbolic="YES" type="user" id="NQF-s4-OKR"/>
+                            <constraint firstItem="E0K-95-uO4" firstAttribute="top" secondItem="0Gt-U4-SLX" secondAttribute="bottom" constant="20" type="user" id="NQF-s4-OKR"/>
                             <constraint firstItem="SlX-c0-MH9" firstAttribute="leading" secondItem="K4c-db-EsO" secondAttribute="leading" type="user" id="SCq-0a-waQ"/>
                             <constraint firstItem="E0K-95-uO4" firstAttribute="trailing" secondItem="K4c-db-EsO" secondAttribute="trailing" type="user" id="SaC-1z-0wV"/>
                             <constraint firstItem="5a3-ok-DSu" firstAttribute="top" secondItem="E0K-95-uO4" secondAttribute="bottom" type="user" id="Tyi-wk-dhV"/>
-                            <constraint firstItem="5a3-ok-DSu" firstAttribute="top" secondItem="K4c-db-EsO" secondAttribute="top" constant="140" id="UgZ-vZ-Zmb"/>
+                            <constraint firstItem="5a3-ok-DSu" firstAttribute="top" secondItem="K4c-db-EsO" secondAttribute="top" constant="140" id="UQD-5k-4Rd"/>
                             <constraint firstItem="6UI-Es-AtW" firstAttribute="leading" secondItem="K4c-db-EsO" secondAttribute="leading" type="user" id="VjU-Jv-ATd"/>
                             <constraint firstItem="Fai-AL-97W" firstAttribute="trailing" secondItem="K4c-db-EsO" secondAttribute="trailing" type="user" id="Vma-XC-f1n"/>
                             <constraint firstItem="5a3-ok-DSu" firstAttribute="top" relation="lessThanOrEqual" secondItem="K4c-db-EsO" secondAttribute="top" constant="140" type="user" id="Vyd-gf-Wem"/>
@@ -697,6 +799,8 @@
     </scenes>
     <resources>
         <image name="button-dark.png" width="107" height="80"/>
+        <image name="button-delete.png" width="214" height="80"/>
+        <image name="button-light.png" width="54" height="40"/>
     </resources>
     <classes>
         <class className="CalculatorViewController" superclassName="UIViewController">
